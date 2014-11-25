@@ -3,3 +3,20 @@ body {
 	background-color: #FFFFFF;
 	font-size: 12px;
 }
+
+.panel-heading{
+	cursor: pointer;
+}
+
+.panel-title {
+	font-size: 18px !important;
+}
+
+h3.list-group-item-heading {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+a.list-group-item:hover {
+	background-color: #dff0d8;
+}
